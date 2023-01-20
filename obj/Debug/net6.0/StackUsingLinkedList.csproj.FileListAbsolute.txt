@@ -1,0 +1,15 @@
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\StackUsingLinkedList\bin\Debug\net6.0\StackUsingLinkedList.exe
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\StackUsingLinkedList\bin\Debug\net6.0\StackUsingLinkedList.deps.json
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\StackUsingLinkedList\bin\Debug\net6.0\StackUsingLinkedList.runtimeconfig.json
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\StackUsingLinkedList\bin\Debug\net6.0\StackUsingLinkedList.dll
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\StackUsingLinkedList\bin\Debug\net6.0\StackUsingLinkedList.pdb
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.csproj.AssemblyReference.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.AssemblyInfoInputs.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.AssemblyInfo.cs
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.dll
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\StackUsingLinkedList\obj\Debug\net6.0\refint\StackUsingLinkedList.dll
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.pdb
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.genruntimeconfig.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\StackUsingLinkedList\obj\Debug\net6.0\ref\StackUsingLinkedList.dll
