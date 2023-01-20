@@ -1,15 +1,20 @@
-﻿namespace QueueUsingLinkedList
+﻿namespace StackUsingLinkedList
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello World!");
-            LinkedListQueue linkedListQueue = new LinkedListQueue();
-            linkedListQueue.Enqueue(56);
-            linkedListQueue.Enqueue(30);
-            linkedListQueue.Enqueue(70);
-            linkedListQueue.Display();// this.top=this.top.next
+            LinkedListStack linkedListStack = new LinkedListStack();
+            linkedListStack.Push(70);
+            linkedListStack.Push(30);
+            linkedListStack.Push(56);
+            linkedListStack.Display();
+            //linkedListStack.Peek();
+            //linkedListStack.Pop();
+            //linkedListStack.IsEmpty();
+            //linkedListStack.Display();
             Console.ReadKey();
         }
     }
